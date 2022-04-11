@@ -1,0 +1,17 @@
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\AMIFLDRV64.sys
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\AMIDEWINx64.exe
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\Volumeid.exe
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\ModestGieikCleaner.exe.config
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\ModestGieikCleaner.exe
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\Microsoft.WindowsAPICodePack.xml
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.xml
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGIEIKCleaner.csproj.SuggestedBindingRedirects.cache
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGieikCleaner.AppForm.resources
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\ModestGieikCleaner.Properties.Resources.resources
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGIEIKCleaner.csproj.GenerateResource.cache
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGIEIKCleaner.csproj.CoreCompileInputs.cache
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGIEIKCleaner.csproj.CopyComplete
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\ModestGieikCleaner.exe
+E:\dev\ModestGIEIKCleaner\ModestGIEIKCleaner\obj\x64\Release\modestGIEIKCleaner.csproj.AssemblyReference.cache
